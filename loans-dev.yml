@@ -1,0 +1,12 @@
+loans:
+    activeBranches:
+    - Chennai
+    - Berlin
+    - Indianapollis
+    build-version: 2
+    mailDetails:
+        from: dev-loans@eazybytes.com
+        hostName: dev-loans@eazybytes.com
+        port: 9021
+        subject: Your Loan Details from Eazy Bank Dev Environment
+    msg: Welcome to the EazyBank Loans Dev application

@@ -1,0 +1,12 @@
+cards:
+    activeBranches:
+    - Chennai
+    - Berlin
+    - Indianapollis
+    build-version: 2
+    mailDetails:
+        from: dev-cards@eazybytes.com
+        hostName: dev-cards@eazybytes.com
+        port: 9022
+        subject: Your Card Details from Eazy Bank Dev Environment
+    msg: Welcome to the EazyBank Cards Dev application

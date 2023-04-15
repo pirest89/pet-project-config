@@ -1,0 +1,12 @@
+cards:
+    activeBranches:
+    - Hyderabad
+    - Paris
+    - NewYork
+    build-version: 1
+    mailDetails:
+        from: prod-cards@eazybytes.com
+        hostName: prod-cards@eazybytes.com
+        port: 9012
+        subject: Your Card Details from Eazy Bank Production Environment
+    msg: Welcome to the EazyBank Cards Prod application
